@@ -12,10 +12,6 @@ hello ruanjianjishu
 hello ruanjianjishu
 hello ruanjianjishu
 1111111111111111111
-<<<<<<< HEAD
 xiu gai
-
-=======
 xiu gai -0
 xui gai -1
->>>>>>> hot-fix
